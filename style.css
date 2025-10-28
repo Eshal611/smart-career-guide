@@ -7,10 +7,12 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    scroll-behavior: smooth;
     line-height: 1.6;
     color: #1f2937;
     background: #ffffff;
+}
+html {
+  scroll-behavior: smooth;
 }
 
 .container {
