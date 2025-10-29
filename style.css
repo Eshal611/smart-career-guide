@@ -533,6 +533,12 @@ html {
 .link-group a:hover {
   color: white;
 }
+/* icon styling */
+.linkediniconinfooter {
+  text-decoration: none;
+  color: inherit;
+
+}
 
 .footer-bottom {
   border-top: 1px solid #374151;
